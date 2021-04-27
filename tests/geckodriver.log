@@ -1,0 +1,25 @@
+1613714078904	geckodriver	INFO	Listening on 127.0.0.1:53601
+1613714082005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pankaj\\AppData\\Local\\Temp\\rust_mozprofile76I3oi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613714085034	Marionette	INFO	Listening on port 53610
+1613714085167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613714085179	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.sbmailer.com/polyfills.js, line 1: uncaught exception: [object Object]
+JavaScript error: https://www.sbmailer.com/polyfills.js, line 1: uncaught exception: [object Object]
+1613714104764	Marionette	INFO	Stopped listening on port 53610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613716604847	geckodriver	INFO	Listening on 127.0.0.1:54837
+1613716607935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pankaj\\AppData\\Local\\Temp\\rust_mozprofileyKn393"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613716610088	Marionette	INFO	Listening on port 54845
+1613716610614	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613716610625	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.sbmailer.com/polyfills.js, line 1: uncaught exception: [object Object]
+1613716616359	Marionette	INFO	Stopped listening on port 54845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
